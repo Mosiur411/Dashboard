@@ -1,0 +1,9 @@
+.layered-image {
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(transparent, #487FE4),
+        url("../../../../img/images.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
